@@ -15,4 +15,4 @@ var totalSum = numOne + numTwo + numThree + numFour + numFive;
 
 // stampa la somma
 
-document.getElementById('sum').innerHTML= totalSum;
+document.getElementById('sum').innerHTML= "And the result is:   " + totalSum;
